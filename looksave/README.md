@@ -30,3 +30,23 @@ Entregables:
         - Hecho en Html, Css, Js (Ajax).
 
         - Diseño de interface de alta calidad.
+
+
+# Contenido del Demo
+Este proyecto muestra el funcionamiento del la herramienta LookSave en el siguiente contexto:
+
+- El usuario Juan Perez ingresa a la plataforma
+- Registra - Inicia Sesion
+- Busca informacion sobre la historia del internet utilizando el motor de busqueda basico
+- Navega los resulados
+- Comparte algunos de esos resultados
+- Guarda Otros 
+- Abre uno
+- Subraya textos
+- Crea comentarios
+- Extrae la cita
+- Busca textos relacionados
+- Crea un proyecto nuevo
+- Comparte el proyecto
+- Luego dentro de su perfil, revisa su historial
+- Finalmente desde sicua abre la plataforma
